@@ -5,6 +5,7 @@ setup(
     name='pysls',
     version=pysls.__version__,
     author=pysls.__author__,
+    description=pysls.__description__, 
     author_email=pysls.__email__,
     url='https://github.com/k0st1an/pysls',
     packages=['pysls'],
